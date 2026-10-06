@@ -1,0 +1,18 @@
+.products-page{
+    width: 100%;
+    display: flex;
+    
+}
+
+.product-card{
+   background-color: rgb(131, 140, 140);
+}
+
+.product-card img{
+    width: 200px;
+    height: 200px;
+}
+
+button{
+    background-color: rgb(206, 218, 206);
+}
